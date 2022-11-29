@@ -1,1 +1,1 @@
-# shiny
+This is a repo about Shiny for P8105.
